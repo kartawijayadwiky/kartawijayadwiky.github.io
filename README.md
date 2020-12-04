@@ -1,6 +1,6 @@
 # Website for Portfolio
 Hi this is my first repo I created, and this repo purposes is a place where i can show everyone my projects. </br>
-You can check it here [kartawijayadwiky.github.io](https://www.example.com)
+You can check it here [kartawijayadwiky.github.io](http://kartawijayadwiky.github.io/)
 
 ## Contact
 You can get in touch with me in social media by clicking icon on the right top on the website.
